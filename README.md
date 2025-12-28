@@ -14,7 +14,7 @@ hl = 查询界面语言
 
 | 名字     | 月付 | 地址                                    | 备注                                                         | Text                                                         |
 | -------- | ---- | --------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Trojan   | 14   | https://www.xflash.pro/                 | 稳定                                        | 在用，备用流量包                                             |
+| Trojan   | 14   | https://www.xflash.pro/                 | 稳定                                        |                                             |
 | Teacat   | 13   | https://teacat.cloud/#/plan             | IEPL                                                         | 企业内网专线https://teacat2.com            |
 | 灵魂云 | 13 | https://linghunyun.com | IEPL | https://linghun999.com |
 | Starlink     | 18   | https://starlink.to/#/plan              | IEPL                                                         | SLA,SS专线，金融级别跨境线路，SS加密，https://star.369.cyou/                             |
